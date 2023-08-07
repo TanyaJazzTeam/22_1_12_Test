@@ -1,0 +1,18 @@
+---
+my:
+  cake:
+    composition:
+      dough:
+      - 卵
+      - 砂糖
+      - 小麦粉
+      cream:
+      - 砂糖
+      - 牛乳
+    dough:
+    - 卵
+    - 砂糖
+    - 小麦粉
+    cream:
+    - 砂糖
+    - 牛乳
